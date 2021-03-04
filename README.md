@@ -1,1 +1,1 @@
-# Popular-Sorting-Algorithm-Visualizer
+# Popular-Sorting-Algorithms-Visualizer
